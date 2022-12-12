@@ -34,7 +34,7 @@
 
 - [x] Feature enum
 - [x] Course enum
-- [ ] Level enum
+- [x] Level enum
 - [ ] Crew Class
 - [ ] Pair Class
 - [ ] MatchingData Class
