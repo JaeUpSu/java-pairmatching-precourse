@@ -33,7 +33,7 @@
 <br>
 
 - [x] Feature enum
-- [ ] Course enum
+- [x] Course enum
 - [ ] Level enum
 - [ ] Crew Class
 - [ ] Pair Class
