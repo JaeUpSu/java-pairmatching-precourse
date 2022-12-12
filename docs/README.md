@@ -32,7 +32,7 @@
 ### 3️⃣ 도메인
 <br>
 
-- [ ] Feature enum
+- [x] Feature enum
 - [ ] Course enum
 - [ ] Level enum
 - [ ] Crew Class
